@@ -1,0 +1,9 @@
+version: 2
+
+seeds:
+  - name: FINANCIAL_DATA
+    config:
+      quote_columns: false
+    description: Raw financial data loaded from finance_data.csv
+    meta:
+      owner: Admin

@@ -1,0 +1,14 @@
+version: "1"
+context:
+  active-host: "us364.us1.dbt.com"
+  active-project: "70471823432788"
+projects:
+  - project-name: "Analytics"
+    project-id: "70471823432788"
+    account-name: "Maram Zakeryfar"
+    account-id: "70471823428811"
+    account-host: "us364.us1.dbt.com"
+    token-name: "cloud-cli-a095"
+    token-value: "dbtu_JWLo21oT4pgYjqi_BqcP6Nnv-4crUevIg6l6BVHclFUsbt59lc"
+
+

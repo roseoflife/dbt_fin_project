@@ -1,5 +1,5 @@
 -- Staging model: Transform raw transaction data with currency conversion
-{{ config(materialized="view") }}
+{{ config(materialized="incremental") }}
 
 select 
     transaction_id, 
